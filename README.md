@@ -2,7 +2,7 @@
 ## info
 My name is Chaerin Kim.  
 I'm currently interested in Blockchain(<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>), Algorithm, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  
-skills : <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/>, <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/>, <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>, <img src="https://img.shields.io/badge/adobepremierepro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/>(a little bit)
+skills : <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html&logoColor=white"/>, <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/>, <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>, <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>, <img src="https://img.shields.io/badge/AdobePremierePro-9999FF?style=flat-square&logo=AdobePremierePro&logoColor=white"/>(a little bit)
 I want to learn <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> , <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C%2B%2B&logoColor=white"/> (I'm not good at it yet)
 
 
