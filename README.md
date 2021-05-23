@@ -2,7 +2,7 @@
 
 ## info
 My name is Chaerin Kim.
-I'm currently interested in Blockchain, Algorithm, Python.
+I'm currently interested in Blockchain, Algorithm, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  
 I want to learn Java, C++ (I'm not good at it yet)
 
 
