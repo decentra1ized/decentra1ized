@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## info
+My name is Chaerin Kim.
+I'm currently interested in Blockchain, Algorithm, Python.
+I want to learn Java, C++ (I'm not good at it yet)
+
+
 <!--
 **decentra1ized/decentra1ized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
