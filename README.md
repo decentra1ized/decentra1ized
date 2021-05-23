@@ -2,8 +2,8 @@
 
 ## info
 My name is Chaerin Kim.
-I'm currently interested in Blockchain, Algorithm, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  
-I want to learn Java, C++ (I'm not good at it yet)
+I'm currently interested in Blockchain(<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>), Algorithm, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>  
+I want to learn <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> , <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C%2B%2B&logoColor=white"/> (I'm not good at it yet)
 
 
 <!--
