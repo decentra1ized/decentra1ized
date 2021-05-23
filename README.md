@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=00462A&height=300&section=header&text=decentralized&fontColor=000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=00462A&height=300&section=header&text=decentralized&fontColor=FFFFFF&fontSize=90)
 
 ## info
 My name is Chaerin Kim.  
