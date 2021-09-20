@@ -12,7 +12,6 @@
 
 - ⚡ Fun fact: I love musicals :)   
   
-<center>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,9 +24,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=decentra1ized&show_icons=true&locale=en&layout=compact" alt="decentra1ized" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=decentra1ized&show_icons=true&locale=en" alt="decentra1ized" /></p>
-  
- </center>
-
+ 
 <!-- I'm currently interested in Blockchain(<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/>), Algorithm  
 skills : <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>, <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>, <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>, <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white"/>,  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>, <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> etc.  
 I want to learn <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> , <img src="https://img.shields.io/badge/C++-007396?style=flat-square&logo=C%2B%2B&logoColor=white"/> (I'm not good at it yet) -->
