@@ -1,7 +1,6 @@
 
 ### Hi there 👋, My name is Chaerin Kim
 #### I'm a freshman at Ewha Womans University in Korea.
-![I'm a freshman at Ewha Womans University in Korea.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm a student who dreams of becoming a blockchain core developer and protocol specialist. I'm very interested in Ethereum.
 
