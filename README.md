@@ -14,7 +14,7 @@
 
 
 ### Experiences
-
+- **COMMON** [member] Jeju Science Highschool Computer Club  `2019.3 ~ 2021.2`
 - **EWHACHAHIN** [member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.3 ~ 2021.6`
 - **EWHACHAHIN** [edu lead] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.7 ~ 2021.12`
 - **DEVELOP WALLET** 2021 TAEBIT Global DeFi HACKATHON participation award `2021.7`
