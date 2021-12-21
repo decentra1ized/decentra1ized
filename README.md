@@ -19,6 +19,7 @@
 - **슬기로운 제곽생활** [lead] Student management integrated platform of Jeju Science Highschool `2019.7 ~ 2021.2`
 - **Edu Voucher Project** [Front-End] Blockchain (HyperLedger Fabric) Project for Education of IBM Korea  `2019.11 ~ 2020.1`
 - **EWHACHAIN** [member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.3 ~ 2021.6`
+- **BEYOND** [member] BEYOND, the future of blockchain community with combined universities (Ewha Womans University&Yonsei University) `2021.5 ~ (present)`
 - **EWHACHAIN** [edu lead] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.7 ~ (present)`
 - **Meowomen** [member] Women Web3 Student Developer's Group `2021.8 ~ (present)`
 - **WALLET** [Back-end] 2021 TAEBIT Global DeFi HACKATHON participation award `2021.7`
