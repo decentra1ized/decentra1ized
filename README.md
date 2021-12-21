@@ -12,6 +12,14 @@
 
 - ⚡ Fun fact: I love musicals :)   
 
+
+### Experiences
+
+- **EWHACHAHIN** [member] Blockchain Academic Group & Coummunity of Ewha Womans University  '''2021.3 ~ 2021.6'''
+- **EWHACHAHIN** [edu lead] Blockchain Academic Group & Coummunity of Ewha Womans University  '''2021.6 ~ 2021.12'''
+- 2021 TAEBIT Global DeFi HACKATHON participation award '''2021.7'''
+- 2021 KOOKMIN BANK Future Finance AI Challenge Top 10(Final) '''2021.10'''
+- 2021 Dreamplus Blockchain Hackathon Final '''2021.12'''
   
   
 <h3 align="center">Connect with me:</h3>
