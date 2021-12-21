@@ -20,10 +20,11 @@
 - **Edu Voucher Project** [Front-End] Blockchain (HyperLedger Fabric) Project for Education of IBM Korea  `2019.11 ~ 2020.1`
 - **EWHACHAIN** [member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.3 ~ 2021.6`
 - **EWHACHAIN** [edu lead] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.7 ~ (present)`
+- **Meowomen** [member] Women Web3 Student Developer's Group `2021.8 ~ (present)`
 - **WALLET** [Back-end] 2021 TAEBIT Global DeFi HACKATHON participation award `2021.7`
 - **KBTOWN** [Full-stack] 2021 KOOKMIN BANK Future Finance AI Challenge Top 10(Final) `2021.10`
 - **ValueConnect** [Front-end] 2021 Dreamplus Blockchain Hackathon Final `2021.12`
-- **EWHACHAIN** [lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
+- **EwhaChainDEv1** [lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
   
   
 <br><br>
