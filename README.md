@@ -26,7 +26,7 @@
 - **KBTOWN** [Full-stack] 2021 KOOKMIN BANK Future Finance AI Challenge Top 10(Final) `2021.10`
 - **ValueConnect** [Front-end] 2021 Dreamplus Blockchain Hackathon Final `2021.12`
 - **EwhaChainDEv1** [lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
-- **EWHACHAIN** [President] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.1 ~ 2021.6`  
+- **EWHACHAIN** [President] Blockchain Academic Group & Coummunity of Ewha Womans University  `2022.1 ~ (present)`  
   
 <br><br>
   
