@@ -14,20 +14,21 @@
 
 
 ### Experiences
-- **COMMON** [member] Jeju Science Highschool Computer Club  `2019.3 ~ 2021.2`
-- **DID Platform&DApp** [lead] Jeju Science Highschool R&E (Ethereum)  `2019.3 ~ 2021.2`
-- **슬기로운 제곽생활** [lead] Student management integrated platform of Jeju Science Highschool `2019.7 ~ 2021.2`
+- **COMMON** [Member] Jeju Science Highschool Computer Club  `2019.3 ~ 2021.2`
+- **DID Platform&DApp** [Lead] Jeju Science Highschool R&E (Ethereum)  `2019.3 ~ 2021.2`
+- **슬기로운 제곽생활** [Lead] Student management integrated platform of Jeju Science Highschool `2019.7 ~ 2021.2`
 - **Edu Voucher Project** [Front-End] Blockchain (HyperLedger Fabric) Project for Education of IBM Korea  `2019.11 ~ 2020.1`
-- **EWHACHAIN** [member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.3 ~ 2021.6`
-- **BEYOND** [member] BEYOND, the future of blockchain community with combined universities (Ewha Womans University&Yonsei University) `2021.5 ~ (present)`
-- **EWHACHAIN** [edu lead] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.7 ~ 2021.12`
-- **Meowomen** [member] Women Web3 Student Developer's Group `2021.8 ~ (present)`
+- **EWHACHAIN** [Member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.3 ~ 2021.6`
+- **BEYOND** [Member] BEYOND, the future of blockchain community with combined universities (Ewha Womans University&Yonsei University) `2021.5 ~ (present)`
+- **EWHACHAIN** [Edu Lead] Blockchain Academic Group & Coummunity of Ewha Womans University  `2021.7 ~ 2021.12`
+- **Meowomen** [Member] Women Web3 Student Developer's Group `2021.8 ~ (present)`
 - **WALLET** [Back-end] 2021 TAEBIT Global DeFi HACKATHON participation award `2021.7`
 - **KBTOWN** [Full-stack] 2021 KOOKMIN BANK Future Finance AI Challenge Top 10(Final) `2021.10`
 - **ValueConnect** [Front-end] 2021 Dreamplus Blockchain Hackathon Final `2021.12`
-- **EwhaChainDEv1** [lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
+- **EwhaChainDEv1** [Lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
 - **EWHACHAIN** [President] Blockchain Academic Group & Coummunity of Ewha Womans University  `2022.1 ~ (present)`  
-  
+- **EWHACHAIN** [Member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2022.1 ~ (present)` 
+- **Hanwha X Hashed Protocol Camp** [1st Member] Developing web3 projects `2022.2 ~ (present)`  
 <br><br>
   
   
