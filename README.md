@@ -27,7 +27,6 @@
 - **ValueConnect** [Front-end] 2021 Dreamplus Blockchain Hackathon Final `2021.12`
 - **EwhaChainDEv1** [Lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
 - **EWHACHAIN** [President] Blockchain Academic Group & Coummunity of Ewha Womans University  `2022.1 ~ (present)`  
-- **EWHACHAIN** [Member] Blockchain Academic Group & Coummunity of Ewha Womans University  `2022.1 ~ (present)` 
 - **Hanwha X Hashed Protocol Camp** [1st Member] Developing web3 projects `2022.2 ~ (present)`  
 <br><br>
   
