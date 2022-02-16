@@ -28,6 +28,9 @@
 - **EwhaChainDEv1** [Lead] Blockchain Core&Mainnet developing - Real EWHA'CHAIN'  `2021.12 ~ (present)`
 - **EWHACHAIN** [President] Blockchain Academic Group & Coummunity of Ewha Womans University  `2022.1 ~ (present)`  
 - **Hanwha X Hashed Protocol Camp** [1st Member] Developing web3 projects `2022.2 ~ (present)`  
+
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdecentra1ized%2Fhit-counter&count_bg=%235C5C5C&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <br><br>
   
   
@@ -44,5 +47,3 @@
 <p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=decentra1ized&show_icons=true&locale=en&layout=compact" alt="decentra1ized" /></p>
 <br>
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=decentra1ized&show_icons=true&locale=en" alt="decentra1ized" /></p>
-
-<center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdecentra1ized%2Fhit-counter&count_bg=%235C5C5C&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></center>
