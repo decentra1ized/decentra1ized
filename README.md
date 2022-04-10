@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I love musicals :)   
 
 
-### Experiences 
+### Current..
 
 **Hanwha X Hashed Protocol Camp** [1st Member] Developing DAO tooling Project `2022.2 ~ (present)`  
 
