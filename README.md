@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Chaerin Kim
 
 - 🌱 I'm a freshman at Ewha Womans University in Republic of Korea.  
-  
+
 
 - 🔭 I'm a student who dreams of becoming a blockchain core(or contract?) developer and protocol specialist.  
   
@@ -15,7 +15,10 @@
 
 ### Currently..
 
-**Hanwha X Hashed Protocol Camp** [1st Member] Developing DAO tooling Project `2022.2 ~ (present)`  
+**Hanwha X Hashed Protocol Camp** [1st Member] Developing DAO tooling Project **Da0 Project** `2022.2 ~ (present)`  
+**Harmony Grants** [Dev Lead] Developing Game-fi Project **Metaverse War** `2022.3 ~ (present)`  
+  
+  
 
   
 <br>
