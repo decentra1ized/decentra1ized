@@ -13,12 +13,14 @@
 - ⚡ Fun fact: I love musicals :)   
 
 
-### Currently..
+### Currently.. I'm studying for growth✨
 
-**Ewhachain** [President] `2022.1 ~ (present)`  
-**Boom Labs** [Core Member] Developing Developer DAO for Onboarding ** `2022.6 ~ (present)`  
+**Ewhachain** [President] `2022.1 ~ (present)` 
+
+**Boom Labs** [Core Member] Onboarding DAO for DEVs  `2022.6 ~ (present)`  
+
 **Klaytn NFT project(Former Harmony Grants)** [Dev Lead] Developing Game-fi Project **Metaverse War** `2022.3 ~ (present)`  
-And I'm studying for growth✨
+
   
 
   
