@@ -15,9 +15,10 @@
 
 ### Currently..
 
-**Hanwha X Hashed Protocol Camp** [1st Member] Developing DAO tooling Project **Da0 Project** `2022.2 ~ (present)`  
-**Harmony Grants** [Dev Lead] Developing Game-fi Project **Metaverse War** `2022.3 ~ (present)`  
-  
+**Ewhachain** [President] `2022.1 ~ (present)`  
+**Boom Labs** [Core Member] Developing Developer DAO for Onboarding ** `2022.6 ~ (present)`  
+**Klaytn NFT project(Former Harmony Grants)** [Dev Lead] Developing Game-fi Project **Metaverse War** `2022.3 ~ (present)`  
+And I'm studying for growth✨
   
 
   
