@@ -9,4 +9,7 @@
 
 - **Klaytn NFT project(Former Harmony Grants)** [Dev Lead] Game-fi Project **Metaverse War** `2022.3 ~ (present)`  
 
+- **PathFinder** [Dev Lead] The Aggrigator Platform for the most efficient swap path in the IBC ecosystem `2022.8 ~ (present)` 
+ (Hackatom 2022 Juno Track 3rd)
+
 - See My [RESUME(KOR)](https://reminiscent-cello-2e0.notion.site/Chaerin-Kim-9f6af7bf3da1444d84261e62270e9216)
