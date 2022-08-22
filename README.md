@@ -5,9 +5,7 @@
 
 - **Ewhachain** [President] `2022.1 ~ (present)` 
 
-- **Boom Labs** [Core Member] Onboarding DAO for DEVs `2022.6 ~ (present)`  
-
-- **Klaytn NFT project(Former Harmony Grants)** [Dev Lead] Game-fi Project **Metaverse War** `2022.3 ~ (present)`  
+- **Boom Labs** [Core Member] Onboarding DAO for DEVs `2022.6 ~ (present)`   
 
 - **PathFinder** [Dev Lead] The Aggrigator Platform for the most efficient swap path in the IBC ecosystem `2022.8 ~ (present)` 
  (Hackatom 2022 Juno Track 3rd)
