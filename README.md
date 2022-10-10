@@ -11,5 +11,3 @@
  (Hackatom Seoul 2022 Juno Track 3rd)
  
 - **[Modular Fellows](https://blog.celestia.org/introducing-modular-fellows/)** [1st cohort] A program designed to empower modular builders with the right resources to build the future of scalable and sovereign blockchain networks `2022.9 ~ (present)` 
-
-- See My Resume [KOR](https://reminiscent-cello-2e0.notion.site/Chaerin-Kim-9f6af7bf3da1444d84261e62270e9216) [ENG](https://reminiscent-cello-2e0.notion.site/Chaerin-Kim-ENG-d0178be12cb1441094a48a0b7fffa281)
