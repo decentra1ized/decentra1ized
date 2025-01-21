@@ -1,3 +1,2 @@
-
-### Chaerin Kim, Blockchaerin, DEEPDIVE ON WEB3
-### Currently.. I'm studying for growth, Solana Dev.
+I’m Chaerin, working as a “Degen” at the Solana Foundation. 
+I’m into DeFi and payment solutions.
